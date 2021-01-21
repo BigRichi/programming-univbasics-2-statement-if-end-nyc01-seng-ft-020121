@@ -2,4 +2,7 @@
 current_time_int = Time.now.to_i 
 
 if current_time_int
-  "Even!" : "Odd!" end 
+  puts "Even!" 
+else 
+  puts "Odd!" 
+end 
